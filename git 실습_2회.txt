@@ -1,3 +1,5 @@
 2회차 깃 실습_ 로컬 브렌치와 remote 브렌치 연결
 
 feature 용 수정
+
+pull 용 수정
